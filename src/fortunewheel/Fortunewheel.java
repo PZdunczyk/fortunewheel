@@ -10,6 +10,7 @@ public class Fortunewheel {
        String dificulty;
        System.out.println("Select dificulty: ");
        dificulty = in.nextLine();
+       System.out.print("dificulty has been selected!");
                
     }
     
